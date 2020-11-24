@@ -16,7 +16,7 @@
 
 - 可测试性
 
-  ![](/home/wangnan/Documents/Design-pattern/f3262ef8152517d3b11bfc3f2d2b12d3.png)
+  ![](https://github.com/ochadesuka/Design-pattern/blob/main/f3262ef8152517d3b11bfc3f2d2b12d3.png)
 
 2、面向对象
 
